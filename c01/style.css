@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Sanssans;
+    src: url('./font1.ttf');
+}
+
+@font-face {
+    font-family: SanssansBold;
+    src: url('./font2.ttf');
+}
